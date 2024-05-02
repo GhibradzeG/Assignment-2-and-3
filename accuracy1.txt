@@ -1,0 +1,4 @@
+epoch number: 20
+
+test accuracy: 0.7084000110626221
+
